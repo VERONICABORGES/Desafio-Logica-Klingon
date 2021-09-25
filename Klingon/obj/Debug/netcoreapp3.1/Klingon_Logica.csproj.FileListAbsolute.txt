@@ -1,9 +1,0 @@
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\bin\Debug\netcoreapp3.1\Klingon_Logica.deps.json
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\bin\Debug\netcoreapp3.1\Klingon_Logica.dll
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\bin\Debug\netcoreapp3.1\Klingon_Logica.pdb
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\obj\Debug\netcoreapp3.1\Klingon_Logica.csprojAssemblyReference.cache
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\obj\Debug\netcoreapp3.1\Klingon_Logica.AssemblyInfoInputs.cache
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\obj\Debug\netcoreapp3.1\Klingon_Logica.AssemblyInfo.cs
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\obj\Debug\netcoreapp3.1\Klingon_Logica.csproj.CoreCompileInputs.cache
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\obj\Debug\netcoreapp3.1\Klingon_Logica.dll
-C:\Users\veronica\Desktop\PROJETOS\DESAFIOS TECNICO\LogicaProg Klingon\Klingon\obj\Debug\netcoreapp3.1\Klingon_Logica.pdb
