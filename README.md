@@ -1,4 +1,4 @@
-### Desafio-Logica-Klingon
+### Desafio de Logica
 ____________________________________________
 
 TECNOLOGIAS UTILIZADA
